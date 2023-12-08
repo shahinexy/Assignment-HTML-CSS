@@ -112,17 +112,14 @@
   .card_1 {
     padding: 30px 20px;
     width: 330px;
-    height: 345px;
   }
   .card_2 {
     padding: 30px 20px;
     width: 330px;
-    height: 345px;
   }
   .card_3 {
     padding: 30px 20px;
     width: 330px;
-    height: 345px;
   }
   .title {
     margin-bottom: 30px;
@@ -131,6 +128,7 @@
   /* coomon area 1 */
   .img img {
     width: 320px;
+    margin-top: 30px;
   }
   .img_shape img {
     width: 190px;
@@ -165,18 +163,21 @@
   .corona_img {
     display: inline-block;
   }
+  .corona_inner {
+    margin-bottom: -30px;
+  }
 
   /* footer area  */
-  .footer{
-    background-color: #0B0D17;
+  .footer {
+    background-color: #0b0d17;
     padding-top: 30px;
     margin-top: -30px;
-}
-  .footer_P{
+  }
+  .footer_P {
     font-size: 30px !important;
     margin-bottom: 10px;
-}
-.copy_right{
+  }
+  .copy_right {
     font-size: 12px !important;
-}
+  }
 }

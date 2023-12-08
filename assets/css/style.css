@@ -84,6 +84,7 @@ img{
 }
 .border_title{
     border-left: 5px solid var(--primary-color);
+    
 }
 .border_title h1{
     margin-left: 10px;
@@ -96,9 +97,6 @@ img{
 .hero_img img{
     width: 450px;
 }
-/* .hero_img{
-    text-align: center;
-} */
 .hero_btn{
     margin-top: 20px;
     margin-bottom: 40px;
