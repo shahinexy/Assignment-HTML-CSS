@@ -41,8 +41,8 @@
 
   /* corona area  */
   .corona_img img {
-    width: 190px;
-    height: 420px;
+    width: 270px;
+    height: 450px;
   }
   .corona_shape_1 img {
     width: 100px;
@@ -56,8 +56,12 @@
     width: 60px;
     height: 60px;
   }
+  .corona_shape_4 img{
+    width: 190px;
+    height: 27px; 
+  }
   .col-9 {
-    gap: 60px;
+    gap: 40px;
     margin-top: 50px;
   }
 }
@@ -159,6 +163,7 @@
     padding-right: 0px;
   }
   /* Corona area  */
+  
   .col-9 {
     flex-direction: column;
     width: 100%;

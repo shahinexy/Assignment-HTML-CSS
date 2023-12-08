@@ -227,8 +227,10 @@ img{
     position: relative;
 }
 .corona_img img{
-    width: 229px;
-    height: 459px; 
+    width: 300px;
+    height: 480px;
+    /* width: 229px;
+    height: 459px;  */
     text-align: start;
 }
 .corona_shape_1 img{
@@ -253,6 +255,14 @@ img{
     height: 77px; 
     bottom: 3%;
     left: -5%;
+    z-index: -1;
+}
+.corona_shape_4 img{
+    position: absolute;
+    width: 206px;
+    height: 27px; 
+    bottom: 6%;
+    left: 15%;
     z-index: -1;
 }
 .col-9{
