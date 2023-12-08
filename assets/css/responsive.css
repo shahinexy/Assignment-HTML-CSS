@@ -66,6 +66,9 @@
 /* break point MD 768px */
 /* ============================== */
 @media screen and (max-width: 768px) {
+  .container{
+    overflow: hidden;
+  }
   h1 {
     font-size: 43px;
   }
